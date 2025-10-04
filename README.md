@@ -1,2 +1,0 @@
-# grup-isimleri-mol-sayisi
-

@@ -152,6 +152,7 @@ self.C3_JsPropNameTable = [
 	{loaderLogo: 0},
 	{orbitalLogo: 0},
 	{bg: 0},
+	{Sprite2: 0},
 	{videoSpeed: 0},
 	{currentVideoTime: 0},
 	{totalVideoTime: 0},
@@ -212,5 +213,6 @@ self.InstanceType = {
 	loaderFill: class extends self.ISpriteInstance {},
 	loaderLogo: class extends self.ISpriteInstance {},
 	orbitalLogo: class extends self.ISpriteInstance {},
-	bg: class extends self.ISpriteInstance {}
+	bg: class extends self.ISpriteInstance {},
+	Sprite2: class extends self.ISpriteInstance {}
 }
